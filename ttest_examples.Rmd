@@ -1,0 +1,11 @@
+---
+title: "Week 4 Part 1- Confidence Intervals & t-tests"
+author: "Matt Koller"
+date: "10/28/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
